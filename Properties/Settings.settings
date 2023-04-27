@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GUI_NDam.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Maximum" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="Minimum" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="VýchozíPočet" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="VýchozíBarva" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="VýchozíZobrazovat" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="VýchozíNázev" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Úloha</Value>
+    </Setting>
+    <Setting Name="VýchozíSymbol" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Kolečko</Value>
+    </Setting>
+    <Setting Name="Barva" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Zobrazovat" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Název" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Úloha</Value>
+    </Setting>
+    <Setting Name="Symbol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
